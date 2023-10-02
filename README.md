@@ -13,7 +13,7 @@ ___
 
 Software Engineer - JavaScript | Deluge | HTML
 Analyst - PowerBi | Google Analytics
-## About :sunglasses:
+## About :😊:
 Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic personality. I am a passionate learner, creative thinker and a good team player with exceptional time management skills.
 
 ## Experiences 😇
