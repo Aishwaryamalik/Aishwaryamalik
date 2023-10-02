@@ -40,6 +40,6 @@ Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic persona
 - Design: Adobe InDesign, Affinity Publisher
 - Operating Systems: Windows 7/10
 
-## Recent Projects 🤓
+## Recent Projects 📚
 - [Amazon Sales Analysis](https://github.com/Aishwaryamalik/Amazon_Sales_Analysis)
 - [Netflix Sales Analysis](https://github.com/Aishwaryamalik/Netflix_Data_Analysis)
