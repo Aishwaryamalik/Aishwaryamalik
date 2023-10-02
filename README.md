@@ -20,7 +20,7 @@ Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic persona
 - Software Engineer @Stone Shippers Limited
    1. **Digitalization:** Gathering user requirements, software development, and user training for seamless
       software implementation.
-      O Developed following softwares to integrate workflows of various departments:
+       Developed following softwares to integrate workflows of various departments:
       1. Purchase Management, Order & Export Management, Finished Goods Inventory, Wooden Crates Inventory - Zoho Creator 
          (Deluge).
       2. Automating existing manual work: Pricing Automation, Invoice generation, Container Tracking Reports, Labels       
@@ -41,5 +41,5 @@ Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic persona
 - Operating Systems: Windows 7/10
 
 ## Recent Projects 🤓
-- Amazon Sales Analysis
+- [Amazon Sales Analysis](https://github.com/Aishwaryamalik/Amazon_Sales_Analysis)
 - Netflix Sales Analysis
