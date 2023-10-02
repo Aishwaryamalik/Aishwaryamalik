@@ -3,7 +3,7 @@ ___
  # <a href="https://www.linkedin.com/in/aishwarya-malik-3b3844184/">Aishwarya Malik</a> :smiley:
  
 <a href="https://www.linkedin.com/in/aishwarya-malik-3b3844184/">
-  <img align="left" alt="Aishwarya Malik LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" style="filter: brightness(0) invert(1);"/>
+  <img align="left" alt="Aishwarya Malik LinkedIn" width="22px" style="filter: brightness(0) invert(1);"/>
 </a>
 <a href="https://github.com/Aishwaryamalik">
   <img align="left" alt="Aishwarya's Github" width="22px" src="https://cdn.simpleicons.org/github/white" />
