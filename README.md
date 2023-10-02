@@ -17,7 +17,7 @@ Analyst - PowerBi | Google Analytics
 Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic personality. I am a passionate learner, creative thinker and a good team player with exceptional time management skills.
 
 ## Experiences 😇
-- Software Engineer @Stone Shippers Limited
+- Software Engineer [@Stone Shippers Limited](https://www.stoneshippers.com/)
    1. **Digitalization:** Gathering user requirements, software development, and user training for seamless
       software implementation.
        Developed following softwares to integrate workflows of various departments:
@@ -42,4 +42,4 @@ Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic persona
 
 ## Recent Projects 🤓
 - [Amazon Sales Analysis](https://github.com/Aishwaryamalik/Amazon_Sales_Analysis)
-- Netflix Sales Analysis
+- [Netflix Sales Analysis](https://github.com/Aishwaryamalik/Netflix_Data_Analysis)
