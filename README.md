@@ -1,4 +1,4 @@
-!(https://github.com/Aishwaryamalik/Aishwaryamalik/assets/65952969/c680289b-28af-4e4a-98f2-b30943c42acf)![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=240&section=header&text=Hi%20there%20👋&fontColor=d6ace6&fontSize=90)
+![header](https://github.com/Aishwaryamalik/Aishwaryamalik/assets/65952969/c680289b-28af-4e4a-98f2-b30943c42acf)![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=240&section=header&text=Hi%20there%20👋&fontColor=d6ace6&fontSize=90)
 ___
  # <a href="https://www.linkedin.com/in/aishwarya-malik-3b3844184/">Aishwarya Malik</a> :smiley:
  
