@@ -13,10 +13,10 @@ ___
 
 Software Engineer - JavaScript | Deluge | HTML
 Analyst - PowerBi | Google Analytics
-## About :😊:
+## About :😊
 Hard-working, Smart-worker, Dedicated, Disciplined person with a dynamic personality. I am a passionate learner, creative thinker and a good team player with exceptional time management skills.
 
-## Experiences 😇
+## Experiences :😇
 - Software Engineer [@Stone Shippers Limited](https://www.stoneshippers.com/)
    1. **Digitalization:** Gathering user requirements, software development, and user training for seamless
       software implementation.
